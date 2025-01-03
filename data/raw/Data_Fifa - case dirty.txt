@@ -1,0 +1,101 @@
+name;value_euro;wage_dollars;height_cm;weight_kgs;age;nationality;overall_rating;positions;preferred_foot;club_team;variable_error
+L. Messi;110500000.0;565000.0;170.18;72.1;31 años;;94.0;CF,RW,ST;Left;FC Barcelona;9999
+C. Eriksen;69500000.0;205000.0;154.94;76.2;27;Denmark;88.0;CAM,RM,CM;Right;Tottenham Hotspur;9999
+P. Pogba;73000000.0;255000.0;190.5;83.9;25;France;88.0;CM,CAM;Right;Manchester United;9999
+P. Pogba;73000000.0;255000.0;190.5;83.9;25;France;88.0;CM,CAM;Right;Manchester United;9999
+P. Pogba;73000000.0;255000.0;190.5;83.9;25;France;88.0;CM,CAM;Right;Manchester United;9999
+L. Insigne;62000000.0;165000.0;162.56;59.0;27;Italy;88.0;LW,ST;Right;Napoli;9999
+K. Koulibaly;60000000.0;135000.0;187.96;88.9;27;Senegal;88.0;CB;Right;Napoli;9999
+V. van Dijk;59500000.0;215000.0;193.04;92.1;27;Netherlands;88.0;CB;Right;Liverpool;9999
+K. Mbappé;81000000.0;100000.0;152.4;73.0;20;France;88.0;RW,ST,RM;Right;Paris Saint-Germain;9999
+K. Mbappé;;;;;;;;;;;9999
+S. Agüero;64500000.0;300000.0;172.72;69.9;30;Argentina;89.0;ST;Right;Manchester City;9999
+M. Neuer;38000000.0;130000.0;193.04;92.1;32;Germany;89.0;GK;Right;FC Bayern München;9999
+E. Cavani;60000000.0;200000.0;185.42;77.1;32;;89.0;ST;Right;Paris Saint-Germain;9999
+Sergio Busquets;51500000.0;315000.0;187.96;76.2;30;Spain;89.0;CDM,CM;Right;FC Barcelona;9999
+T. Courtois;53500000.0;240000.0;198.12;96.2;26;Belgium;89.0;GK;Left;Real Madrid;9999
+M. ter Stegen;58000000.0;240000.0;187.96;84.8;26;Germany;89.0;GK;Right;FC Barcelona;9999
+A. Griezmann;78000000.0;145000.0;175.26;73.0;27;France;89.0;CF,ST;Left;Atlético Madrid;9999
+M. Salah;78500000.0;265000.0;175.26;71.2;26;Egypt;89.0;RW,ST;Left;Liverpool;9999
+P. Dybala;89000000.0;205000.0;152.4;74.8;25;Argentina;89.0;CAM,RW;Left;Juventus;9999
+M. Škriniar;53500000.0;89000.0;187.96;79.8;24;Slovakia;86.0;CB;Right;Inter;9999
+Fernandinho;20500000.0;200000.0;152.4;67.1;33;Brazil;87.0;CDM;Right;Manchester City;9999
+G. Higuaín;48500000.0;205000.0;185.42;88.9;31;Argentina;87.0;ST;Right;Chelsea;9999
+I. Rakitić;46500000.0;260000.0;182.88;78.0;30;Croatia;87.0;CM,CDM;Right;FC Barcelona;9999
+J. Vertonghen;34000000.0;155000.0;187.96;86.2;31;Belgium;87.0;CB;Left;Tottenham Hotspur;9999
+D. Mertens;45000000.0;135000.0;170.18;60.8;31;Belgium;87.0;CF,ST;Right;Napoli;9999
+Marcelo;36500000.0;240000.0;175.26;79.8;30;Brazil;87.0;LB;Left;Real Madrid;9999
+T. Alderweireld;44000000.0;165000.0;185.42;81.2;30;Belgium;87.0;CB;Right;Tottenham Hotspur;9999
+Jordi Alba;38000000.0;250000.0;170.18;68.0;29;Spain;87.0;LB;Left;FC Barcelona;9999
+Thiago;51500000.0;140000.0;175.26;69.9;27;Spain;87.0;CM,CAM,CDM;Right;FC Bayern München;9999
+C. Immobile;52000000.0;115000.0;185.42;84.8;29;Italy;87.0;ST;Right;Lazio;9999
+K. Navas;30500000.0;195000.0;185.42;79.8;32;Costa Rica;87.0;GK;Right;Real Madrid;9999
+Isco;62500000.0;260000.0;175.26;78.9;26;Spain;87.0;CAM,CM,LW;Right;Real Madrid;9999
+J. Rodríguez;59000000.0;260000.0;154.94;74.8;27;Colombia;87.0;CAM,CM,RM;Left;FC Bayern München;9999
+Casemiro;50500000.0;240000.0;185.42;83.9;27;Brazil;87.0;CDM;Right;Real Madrid;9999
+M. Icardi;64500000.0;130000.0;154.94;74.8;26;Argentina;87.0;ST;Right;Inter;9999
+Kepa;31000000.0;92000.0;185.42;84.8;24;Spain;84.0;GK;Right;Chelsea;9999
+H. Ziyech;38000000.0;31000.0;154.94;64.9;25;Morocco;84.0;CAM,RW;Left;Ajax;9999
+Fabinho;34000000.0;120000.0;187.96;78.0;25;Brazil;84.0;CDM;Right;Liverpool;9999
+A. Martial;42500000.0;165000.0;182.88;76.2;23;France;84.0;LW,ST,LM;Right;Manchester United;9999
+T. Werner;40000000.0;77000.0;154.94;74.8;23;Germany;84.0;ST;Right;RB Leipzig;9999
+N. Süle;36500000.0;84000.0;195.58;97.1;23;Germany;84.0;CB;Right;FC Bayern München;9999
+Bruno Fernandes;40500000.0;22000.0;152.4;68.9;24;Portugal;84.0;CAM,CM;Right;Portugal;9999
+Alex Telles;31000000.0;22000.0;154.94;71.2;26;Brazil;84.0;LB;Left;FC Porto;9999
+J. Giménez;34000000.0;63000.0;185.42;79.8;24;Uruguay;84.0;CB;Right;Atlético Madrid;9999
+N. Fekir;40500000.0;84000.0;172.72;74.8;25;France;84.0;CAM;Left;Olympique Lyonnais;9999
+D. Sánchez;34000000.0;105000.0;187.96;78.9;22;Colombia;84.0;CB;Right;Tottenham Hotspur;9999
+Marco Asensio;41500000.0;195000.0;182.88;76.2;23;Spain;84.0;LW,RW;Left;Real Madrid;9999
+O. Dembélé;46000000.0;170000.0;152.4;67.1;21;France;84.0;RW,LW;Left;FC Barcelona;9999
+Iniesta;18500000.0;19000.0;170.18;68.0;34;Spain;85.0;CM,LM;Right;Vissel Kobe;9999
+Z. Ibrahimović;14000000.0;15000.0;195.58;94.8;37;Sweden;85.0;ST;Right;LA Galaxy;9999
+Jorginho;30000000.0;140000.0;154.94;67.1;27;Italy;83.0;CM;Right;Chelsea;9999
+E. Višća;26000000.0;44000.0;172.72;63.0;29;Bosnia Herzegovina;83.0;RM,RW;Right;Medipol Başakşehir FK;9999
+S. Gnabry;34000000.0;85000.0;175.26;74.8;23;Germany;83.0;LM,RM,CAM,LW;Right;FC Bayern München;9999
+M. Kovačić;35000000.0;165000.0;175.26;78.0;24;Croatia;83.0;CM;Right;Chelsea;9999
+William Carvalho;27000000.0;35000.0;187.96;83.0;26;Portugal;83.0;CDM,CM;Right;Real Betis;9999
+Felipe;22500000.0;22000.0;190.5;86.2;29;Brazil;83.0;CB;Right;FC Porto;9999
+Y. Carrasco;33000000.0;20000.0;154.94;73.0;25;Belgium;83.0;LM;Right;Belgium;9999
+Lucas Vázquez;27000000.0;205000.0;172.72;69.9;27;Spain;83.0;RW,RM;Right;Real Madrid;9999
+Q. Promes;28000000.0;28000.0;175.26;72.1;27;Netherlands;83.0;LM,ST,RM;Right;Sevilla FC;9999
+L. Goretzka;34000000.0;85000.0;187.96;78.9;24;Germany;83.0;CM,CAM,CDM;Right;FC Bayern München;9999
+A. Rabiot;33000000.0;91000.0;193.04;79.8;23;France;83.0;CM,CDM;Left;Paris Saint-Germain;9999
+A. Romagnoli;31000000.0;92000.0;187.96;78.0;24;Italy;83.0;CB;Left;Milan;9999
+João Cancelo;29500000.0;105000.0;182.88;73.9;24;Portugal;83.0;RB;Right;Juventus;9999
+Anderson Talisca;34000000.0;27000.0;190.5;79.8;25;Brazil;83.0;CAM;Left;Guangzhou Evergrande Taobao FC;9999
+K. Coman;34500000.0;85000.0;152.4;71.2;22;France;83.0;LM,RM,LW,RW;Right;FC Bayern München;9999
+T. Lemar;35500000.0;64000.0;170.18;62.1;23;France;83.0;LM,CAM,RM;Left;Atlético Madrid;9999
+J. Tah;25000000.0;61000.0;195.58;97.1;23;Germany;82.0;CB;Right;Bayer 04 Leverkusen;9999
+M. Politano;28000000.0;61000.0;170.18;67.1;25;Italy;82.0;RM,LM,ST;Left;Inter;9999
+C. Lenglet;26000000.0;135000.0;185.42;81.2;23;France;82.0;CB;Left;FC Barcelona;9999
+Pau López;21500000.0;21000.0;187.96;77.1;24;Spain;82.0;GK;Left;Real Betis;9999
+H. Lozano;29500000.0;24000.0;175.26;69.9;23;Mexico;82.0;RW,LW;Right;PSV;9999
+Malcom;31500000.0;140000.0;172.72;73.9;22;Brazil;82.0;RW;Left;FC Barcelona;9999
+L. Torreira;25000000.0;98000.0;167.64;64.0;23;Uruguay;82.0;CDM,CM;Right;Arsenal;9999
+Gonçalo Guedes;29000000.0;36000.0;152.4;68.0;22;Portugal;82.0;LM,ST,RM,LW;Right;Valencia CF;9999
+G. Lo Celso;30000000.0;83000.0;175.26;69.9;22;Argentina;82.0;CM,CAM,CDM;Left;Real Betis;9999
+Fabián;32000000.0;70000.0;187.96;69.9;22;Spain;82.0;CM,CDM,CAM;Left;Napoli;9999
+F. de Jong;31000000.0;20000.0;154.94;69.9;21;Netherlands;82.0;CM,CDM,CB;Right;Ajax;9999
+Raphaelito Anjos;14000000.0;32000.0;190.5;84.8;31;Brazil;82.0;GK;Right;Grêmio;9999
+Juiano Mestres;6500000.0;39000.0;154.94;82.1;35;Brazil;82.0;CB,CDM;Right;Cruzeiro;9999
+Rosberto Dourado;16500000.0;46000.0;175.26;69.9;31;Brazil;82.0;CDM,CM;Right;Atlético Mineiro;9999
+Arthur;32500000.0;125000.0;170.18;73.0;22;Brazil;82.0;CM;Right;FC Barcelona;9999
+Rodri;29000000.0;59000.0;190.5;82.1;22;Spain;82.0;CM,CDM;Right;Atlético Madrid;9999
+M. Parolo;9000000.0;59000.0;182.88;74.8;34;Italy;82.0;CDM,CM;Right;Lazio;9999
+M. Kruse;21500000.0;45000.0;154.94;76.2;30;Germany;82.0;CF,ST,CAM;Left;SV Werder Bremen;9999
+J. Henderson;18000000.0;125000.0;182.88;79.8;28;England;82.0;CDM,CM;Right;Liverpool;9999
+N. Gaitán;21000000.0;22000.0;172.72;66.2;31;Argentina;82.0;CAM;Left;Dalian YiFang FC;9999
+M. Arnautović;22000000.0;120000.0;193.04;83.0;29;Austria;82.0;ST;Right;West Ham United;9999
+S. Giovinco;20000000.0;61000.0;162.56;60.8;32;Italy;82.0;CF,ST;Right;Italy;9999
+G. Sigurðsson;22500000.0;125000.0;185.42;77.1;29;Iceland;82.0;CAM;Right;Everton;9999
+Giuliano;22500000.0;59000.0;172.72;68.0;28;Brazil;82.0;CAM,RW;Right;Al Nassr;9999
+P. Gulácsi;18000000.0;53000.0;193.04;86.2;28;Hungary;82.0;GK;Right;RB Leipzig;9999
+Luiz Gustavo;16500000.0;57000.0;187.96;78.0;31;Brazil;82.0;CDM,CB;Left;Olympique de Marseille;9999
+K. Trippier;18500000.0;99000.0;152.4;72.1;28;England;82.0;RB,RWB;Right;Tottenham Hotspur;9999
+A. Ramsey;23000000.0;130000.0;182.88;76.2;28;Wales;82.0;CM,CDM,CAM;Right;Arsenal;9999
+M. Balotelli;23500000.0;68000.0;187.96;88.0;28;Italy;82.0;ST;Right;Olympique de Marseille;9999
+Marlos;21000000.0;1000.0;175.26;68.9;30;Ukraine;82.0;RM;Left;Shakhtar Donetsk;9999
+Taison;21000000.0;1000.0;172.72;64.0;31;Brazil;82.0;LM,CAM;Right;Shakhtar Donetsk;9999
+G. Bonaventura;22000000.0;115000.0;154.94;74.8;29;Italy;82.0;CM,LW;Right;Milan;9999
+G. Kondogbia;22000000.0;43000.0;187.96;79.8;26;Central African Rep.;81.0;CM,CDM;Left;Valencia CF;9999
+J. Roussillon;18000000.0;50000.0;175.26;79.8;26;France;81.0;LB,LWB,LM;Left;VfL Wolfsburg;9999
