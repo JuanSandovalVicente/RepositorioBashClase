@@ -12,4 +12,4 @@ if __name__ == "__main__":
     resta = restar(num1, num2)  
 
     print(f"La suma de {num1} y {num2} es: {suma}")  
-    print(f"La resta de {num1} y {num2} es: {resta}") 
+    print(f"La resta de {num1} y {num2} es: {resta}")  
