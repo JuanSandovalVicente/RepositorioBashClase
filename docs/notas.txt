@@ -1,0 +1,7 @@
+
+Ejecutar en terminal para activar entono virtual del proyecto
+.venv\Scripts\activate
+
+pip install nbconvert
+
+jupyter nbconvert notebooks/borrar.ipynb --to script
